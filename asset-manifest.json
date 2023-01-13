@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sasakazi_test/static/css/main.a8f15d80.css",
+    "main.js": "/sasakazi_test/static/js/main.5091c099.js",
+    "index.html": "/sasakazi_test/index.html",
+    "main.a8f15d80.css.map": "/sasakazi_test/static/css/main.a8f15d80.css.map",
+    "main.5091c099.js.map": "/sasakazi_test/static/js/main.5091c099.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8f15d80.css",
+    "static/js/main.5091c099.js"
+  ]
+}
